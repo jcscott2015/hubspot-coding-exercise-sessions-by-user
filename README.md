@@ -1,4 +1,4 @@
-# HubSpot Candidate Coding Exercise -- Sessions By User
+# HubSpot Candidate Coding Exercise - Sessions By User
 
 ***Applicant: John C. Scott***
 
