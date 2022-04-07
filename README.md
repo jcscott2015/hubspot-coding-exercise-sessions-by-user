@@ -4,7 +4,7 @@
 
 I'm not a fan of timed coding exercises, especially if they are used to screen job candidates before actually speaking to a hiring manager. I'm sure there are developers without testing anxiety or physical disabilities who can code and test this exercise well within 3 hours.
 
-As I didn't quite make the time, and therefore was immediately rejected for the position, I'm publicly posting my successful, NodeJS/Typescript solution.
+As I didn't quite finish on time, and therefore was immediately and automatically rejected for the position, I'm publicly posting my successful, NodeJS/Typescript solution.
 
 ## Install Node Modules
 
